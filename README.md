@@ -1,2 +1,1 @@
-# myApp
-for learning
+tests
